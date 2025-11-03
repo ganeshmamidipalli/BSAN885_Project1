@@ -1,0 +1,37 @@
+{
+  "what_makes_top_good": [
+    "High average ratings above 4.7, indicating strong customer satisfaction.",
+    "Significant review counts, with many products having over 25 reviews, suggesting reliability.",
+    "Products cater to specific needs (e.g., fitness, outdoor activities) which resonate well with users.",
+    "Quality construction and performance highlighted in reviews.",
+    "Consistent positive feedback on usability and effectiveness."
+  ],
+  "what_hurts_bottom": [
+    "Low average ratings below 3.7, indicating dissatisfaction among users.",
+    "Limited review counts for some products, raising concerns about reliability.",
+    "Common complaints about performance and durability.",
+    "Products may not meet customer expectations based on marketing.",
+    "Lack of specific features that competitors offer, leading to lower appeal."
+  ],
+  "shared_themes": [
+    "Both top and bottom products include fitness-related items.",
+    "Customer feedback is crucial in determining product success.",
+    "Products in both categories vary widely in terms of user experience.",
+    "Brand reputation plays a role in customer expectations.",
+    "Price points may influence perceived value among consumers."
+  ],
+  "product_improvements": [
+    "Enhance product durability and performance to boost ratings.",
+    "Increase customer engagement for feedback to identify pain points.",
+    "Improve marketing to better align product features with customer needs.",
+    "Consider redesigning products based on user reviews for better usability.",
+    "Expand product lines to include more features that competitors offer."
+  ],
+  "quick_recs": [
+    "Focus on quality control to improve top product consistency.",
+    "Address common complaints in bottom products to enhance satisfaction.",
+    "Leverage positive reviews from top products in marketing strategies.",
+    "Encourage more customer reviews for bottom products to gather insights.",
+    "Explore partnerships with influencers to boost visibility of underperforming items."
+  ]
+}
